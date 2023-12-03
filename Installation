@@ -1,4 +1,4 @@
-// You need to add below entery in  /etc/sudoers file
+// You need to add below entry in  /etc/sudoers file
 //jenkins ALL=(ALL) NOPASSWD: ALL
 //usermod -a -G root jenkins
 
